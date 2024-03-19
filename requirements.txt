@@ -4,3 +4,4 @@ seaborn
 matplotlib==3.7.3
 scikit-learn
 ipykernel==6.29.3
+tensorflow==2.16.1
